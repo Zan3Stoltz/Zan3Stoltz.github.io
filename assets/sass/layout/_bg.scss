@@ -1,12 +1,4 @@
-///
-/// Dimension by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
-/* BG */
-
-	#bg {
+#bg {
 		@include vendor('transform', 'scale(1.0)');
 		-webkit-backface-visibility: hidden;
 		position: fixed;
